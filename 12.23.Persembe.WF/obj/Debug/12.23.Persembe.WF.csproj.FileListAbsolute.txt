@@ -1,0 +1,10 @@
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\bin\Debug\12.23.Persembe.WF.exe.config
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\bin\Debug\12.23.Persembe.WF.exe
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\bin\Debug\12.23.Persembe.WF.pdb
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\obj\Debug\12.23.Persembe.WF.csproj.AssemblyReference.cache
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\obj\Debug\_12._23.Persembe.WF.Form1.resources
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\obj\Debug\_12._23.Persembe.WF.Properties.Resources.resources
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\obj\Debug\12.23.Persembe.WF.csproj.GenerateResource.cache
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\obj\Debug\12.23.Persembe.WF.csproj.CoreCompileInputs.cache
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\obj\Debug\12.23.Persembe.WF.exe
+C:\Users\203AKSAM_MUTLU\source\repos\12.23.Persembe.WF\12.23.Persembe.WF\obj\Debug\12.23.Persembe.WF.pdb
